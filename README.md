@@ -1,4 +1,4 @@
-# Experiment-03 Half Subtractor and Full subtractor
+# Experiment 04 Half Subtractor and Full subtractor
 #### Name: JASHWANTH M.R
 #### Register number: 23005691
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
